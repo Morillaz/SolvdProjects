@@ -1,0 +1,116 @@
+2021-04-01 07:39:40,566 [main] INFO  com.solvd.buildingCompany.Main - Starting Program.
+2021-04-01 07:39:40,569 [main] INFO  com.solvd.buildingCompany.staff.Company - New Company Created.
+2021-04-01 07:39:40,589 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,589 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - New General Manager created.
+2021-04-01 07:39:40,589 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,589 [main] INFO  com.solvd.buildingCompany.staff.Company - General Manager added to Company Buildings Co..
+2021-04-01 07:39:40,591 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,591 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - New Planification Manager created.
+2021-04-01 07:39:40,591 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,591 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,596 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,596 [main] INFO  com.solvd.buildingCompany.staff.bosses.DesignManager - New Design Manager created.
+2021-04-01 07:39:40,596 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,597 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,605 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,605 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - New Construction Manager Created.
+2021-04-01 07:39:40,605 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,605 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,607 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,607 [main] INFO  com.solvd.buildingCompany.staff.bosses.AccountingManager - New Accountant Manager Created.
+2021-04-01 07:39:40,607 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,607 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,607 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,608 [main] INFO  com.solvd.buildingCompany.staff.bosses.LegalManager - New Legal Manager created.
+2021-04-01 07:39:40,608 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,608 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,612 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,612 [main] INFO  com.solvd.buildingCompany.staff.bosses.SalesManager - New Sales Manager created.
+2021-04-01 07:39:40,612 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,612 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:39:40,614 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,615 [main] INFO  com.solvd.buildingCompany.staff.subordinates.SalesAgent - New Sales Agent created.
+2021-04-01 07:39:40,615 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,615 [main] INFO  com.solvd.buildingCompany.staff.bosses.SalesManager - Employee added.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:39:40,616 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,617 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:39:40,617 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:39:40,617 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:39:40,621 [main] INFO  com.solvd.buildingCompany.product.House - House data created.
+2021-04-01 07:39:40,621 [main] INFO  com.solvd.buildingCompany.client.Client - New Client created.
+2021-04-01 07:39:40,621 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - Cost by house specifications added to budget.
+2021-04-01 07:39:40,624 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Workforce cost added to budget.
+2021-04-01 07:39:40,624 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - Construction time estimated successfully.
+2021-04-01 07:39:40,630 [main] INFO  com.solvd.buildingCompany.staff.bosses.DesignManager - Quality cost added to budget.
+2021-04-01 07:39:40,630 [main] INFO  com.solvd.buildingCompany.staff.bosses.LegalManager - Legal cost added to budget.
+2021-04-01 07:39:40,631 [main] INFO  com.solvd.buildingCompany.staff.bosses.AccountingManager - Taxes Calculated.
+2021-04-01 07:39:40,631 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Project Budget calculated.
+2021-04-01 07:39:40,658 [main] INFO  com.solvd.buildingCompany.staff.subordinates.SalesAgent - House cost informed successfully.
+2021-04-01 07:39:40,658 [main] INFO  com.solvd.buildingCompany.staff.Company - Construction added to Queue.
+2021-04-01 07:39:40,658 [main] INFO  com.solvd.buildingCompany.Main - Program ended successful.
+2021-04-01 07:40:19,857 [main] INFO  com.solvd.buildingCompany.Main - Starting Program.
+2021-04-01 07:40:19,861 [main] INFO  com.solvd.buildingCompany.staff.Company - New Company Created.
+2021-04-01 07:40:19,864 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,864 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - New General Manager created.
+2021-04-01 07:40:19,864 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,864 [main] INFO  com.solvd.buildingCompany.staff.Company - General Manager added to Company Buildings Co..
+2021-04-01 07:40:19,866 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,866 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - New Planification Manager created.
+2021-04-01 07:40:19,866 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,866 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,867 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,867 [main] INFO  com.solvd.buildingCompany.staff.bosses.DesignManager - New Design Manager created.
+2021-04-01 07:40:19,867 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,867 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,868 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,868 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - New Construction Manager Created.
+2021-04-01 07:40:19,868 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,868 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,869 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,869 [main] INFO  com.solvd.buildingCompany.staff.bosses.AccountingManager - New Accountant Manager Created.
+2021-04-01 07:40:19,869 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,869 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,869 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.bosses.LegalManager - New Legal Manager created.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.bosses.SalesManager - New Sales Manager created.
+2021-04-01 07:40:19,870 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,871 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Employee Added.
+2021-04-01 07:40:19,872 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,872 [main] INFO  com.solvd.buildingCompany.staff.subordinates.SalesAgent - New Sales Agent created.
+2021-04-01 07:40:19,872 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,872 [main] INFO  com.solvd.buildingCompany.staff.bosses.SalesManager - Employee added.
+2021-04-01 07:40:19,872 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.subordinates.Worker - New Worker created.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.Company - Employee added to company.
+2021-04-01 07:40:19,873 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Employee Added.
+2021-04-01 07:40:19,875 [main] INFO  com.solvd.buildingCompany.product.House - House data created.
+2021-04-01 07:40:19,875 [main] INFO  com.solvd.buildingCompany.client.Client - New Client created.
+2021-04-01 07:40:19,876 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - Cost by house specifications added to budget.
+2021-04-01 07:40:19,878 [main] INFO  com.solvd.buildingCompany.staff.bosses.ConstructionManager - Workforce cost added to budget.
+2021-04-01 07:40:19,879 [main] INFO  com.solvd.buildingCompany.staff.bosses.PlanificationManager - Construction time estimated successfully.
+2021-04-01 07:40:19,879 [main] INFO  com.solvd.buildingCompany.staff.bosses.DesignManager - Quality cost added to budget.
+2021-04-01 07:40:19,880 [main] INFO  com.solvd.buildingCompany.staff.bosses.LegalManager - Legal cost added to budget.
+2021-04-01 07:40:19,880 [main] INFO  com.solvd.buildingCompany.staff.bosses.AccountingManager - Taxes Calculated.
+2021-04-01 07:40:19,880 [main] INFO  com.solvd.buildingCompany.staff.bosses.GeneralManager - Project Budget calculated.
+2021-04-01 07:40:19,937 [main] INFO  com.solvd.buildingCompany.staff.subordinates.SalesAgent - House cost informed successfully.
+2021-04-01 07:40:19,937 [main] INFO  com.solvd.buildingCompany.staff.Company - Construction added to Queue.
+2021-04-01 07:40:19,937 [main] INFO  com.solvd.buildingCompany.Main - Program ended successful.
