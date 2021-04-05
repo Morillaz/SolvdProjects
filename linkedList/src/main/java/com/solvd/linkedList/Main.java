@@ -6,6 +6,10 @@ public class Main {
         list.add(1);
         list.add(2);
         list.add(25);
+        list.add(25);
+        list.add(25);
+        list.add(39);
+        list.add(32);
 
         for (Integer i: list) {
             System.out.println(i);
