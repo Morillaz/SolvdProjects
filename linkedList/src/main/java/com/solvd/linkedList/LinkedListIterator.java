@@ -11,7 +11,7 @@ public class LinkedListIterator<T> implements ListIterator<T> {
 
     public LinkedListIterator(LinkedList<T> l) {
         this.l = l;
-        current = l.getPre().next;
+        current = l.getPre().getNext();
         lastAccessed = null;
         index = 0;
     }
@@ -35,31 +35,31 @@ public class LinkedListIterator<T> implements ListIterator<T> {
     public T next() {
         if (!hasNext()) throw new NoSuchElementException();
         lastAccessed = current;
-        T item = current.item;
-        current = current.next;
+        T item = current.getItem();
+        current = current.getNext();
         index++;
         return item;
     }
 
     public T previous() {
         if (!hasPrevious()) throw new NoSuchElementException();
-        current = current.prev;
+        current = current.getPrev();
         index--;
         lastAccessed = current;
-        return current.item;
+        return current.getItem();
     }
 
     public void set(T item) {
         if (lastAccessed == null) throw new IllegalStateException();
-        lastAccessed.item = item;
+        lastAccessed.setItem(item);
     }
 
     public void remove() {
         if (lastAccessed == null) throw new IllegalStateException();
-        Node<T> x = lastAccessed.prev;
-        Node<T> y = lastAccessed.next;
-        x.next = y;
-        y.prev = x;
+        Node<T> x = lastAccessed.getPrev();
+        Node<T> y = lastAccessed.getNext();
+        x.setNext(y);
+        y.setPrev(x);
         l.setN(l.getN() - 1);
         if (current == lastAccessed)
             current = y;
@@ -69,14 +69,14 @@ public class LinkedListIterator<T> implements ListIterator<T> {
     }
 
     public void add(T item) {
-        Node<T> x = current.prev;
+        Node<T> x = current.getPrev();
         Node<T> y = new Node<>();
         Node<T> z = current;
-        y.item = item;
-        x.next = y;
-        y.next = z;
-        z.prev = y;
-        y.prev = x;
+        y.setItem(item);
+        x.setNext(y);
+        y.setNext(z);
+        z.setPrev(y);
+        y.setPrev(x);
         l.setN(l.getN() + 1);
         index++;
         lastAccessed = null;

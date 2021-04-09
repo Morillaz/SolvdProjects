@@ -2,8 +2,6 @@ package com.solvd.linkedList;
 
 import java.util.ListIterator;
 
-
-
 public class LinkedList<T> implements Iterable<T> {
     private int n;
     private Node<T> pre;
@@ -12,8 +10,8 @@ public class LinkedList<T> implements Iterable<T> {
     public LinkedList() {
         pre = new Node<>();
         post = new Node<>();
-        pre.next = post;
-        post.prev = pre;
+        pre.setNext(post);
+        post.setPrev(pre);
     }
 
     public boolean isEmpty() {
@@ -25,13 +23,13 @@ public class LinkedList<T> implements Iterable<T> {
     }
 
     public void add(T item) {
-        Node<T> last = post.prev;
+        Node<T> last = post.getPrev();
         Node<T> x = new Node<>();
-        x.item = item;
-        x.next = post;
-        x.prev = last;
-        post.prev = x;
-        last.next = x;
+        x.setItem(item);
+        x.setNext(post);
+        x.setPrev(last);
+        post.setPrev(x);
+        last.setNext(x);
         n++;
     }
 
