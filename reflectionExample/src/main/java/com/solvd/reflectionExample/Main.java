@@ -28,7 +28,7 @@ public class Main {
             Method getMessage = hello.getClass().getMethod("getMessage");
 
             setMessage.invoke(hello, "Hi, how are you?");
-            System.out.println(getMessage.invoke(hello));
+            logger.info(getMessage.invoke(hello));
         } catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e){
             logger.error(e.getMessage());
         }
