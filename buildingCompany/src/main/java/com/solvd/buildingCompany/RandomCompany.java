@@ -3,9 +3,9 @@ package com.solvd.buildingCompany;
 import com.solvd.buildingCompany.enums.Roles;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
 import com.solvd.buildingCompany.staff.*;
-import com.solvd.buildingCompany.staff.bosses.ConstructionManager;
-import com.solvd.buildingCompany.staff.bosses.GeneralManager;
-import com.solvd.buildingCompany.staff.bosses.SalesManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.ConstructionManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.GeneralManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.SalesManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

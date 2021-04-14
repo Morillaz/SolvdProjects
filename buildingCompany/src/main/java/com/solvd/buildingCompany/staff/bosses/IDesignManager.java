@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses.interfaces;
+package com.solvd.buildingCompany.staff.bosses;
 
 import com.solvd.buildingCompany.product.Construction;
 

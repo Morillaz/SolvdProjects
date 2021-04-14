@@ -4,8 +4,8 @@ import com.solvd.buildingCompany.client.Client;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
 import com.solvd.buildingCompany.exceptions.ConstructionException;
 import com.solvd.buildingCompany.product.House;
-import com.solvd.buildingCompany.staff.bosses.GeneralManager;
-import com.solvd.buildingCompany.staff.bosses.SalesManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.GeneralManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.SalesManager;
 import com.solvd.buildingCompany.staff.subordinates.SalesAgent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -36,7 +36,7 @@ public class Main {
         }
 
         LambdaTest<House> lambda = new LambdaTest<>();
-        System.out.println(lambda.formattedToString(prospect.getRequestedConstruction()));
+        logger.info(lambda.formattedToString(prospect.getRequestedConstruction()));
 
         logger.info("Program ended successful.");
     }

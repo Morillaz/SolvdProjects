@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.enums.Roles;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
@@ -7,7 +7,7 @@ import com.solvd.buildingCompany.staff.subordinates.Accountant;
 import com.solvd.buildingCompany.staff.subordinates.Bookkeeper;
 import com.solvd.buildingCompany.staff.Company;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
-import com.solvd.buildingCompany.staff.bosses.interfaces.IAccountingManager;
+import com.solvd.buildingCompany.staff.bosses.IAccountingManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

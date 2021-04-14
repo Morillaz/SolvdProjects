@@ -1,9 +1,9 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.exceptions.EmployeeException;
 import com.solvd.buildingCompany.staff.Company;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
-import com.solvd.buildingCompany.staff.bosses.interfaces.Managerable;
+import com.solvd.buildingCompany.staff.bosses.Managerable;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -5,8 +5,8 @@ import com.solvd.buildingCompany.client.Client;
 import com.solvd.buildingCompany.exceptions.ConstructionException;
 import com.solvd.buildingCompany.product.House;
 import com.solvd.buildingCompany.staff.Company;
-import com.solvd.buildingCompany.staff.bosses.Boss;
-import com.solvd.buildingCompany.staff.bosses.GeneralManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.Boss;
+import com.solvd.buildingCompany.staff.bosses.implementation.GeneralManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -28,7 +28,7 @@ public class SalesAgent extends Employee {
             House prospectHouse = client.getRequestedConstruction();
             GeneralManager manager = this.getCompany().getGeneralManager();
             Double budget = manager.calculateProjectBudget(prospectHouse);
-            System.out.printf("The total cost of the construction that %s ask us for is: $%.2f\n", client.getName(), budget);
+            logger.info(String.format("The total cost of the construction that %s ask us for is: $%.2f", client.getName(), budget));
             LambdaTest<House> information = new LambdaTest<>();
             information.formattedToString(prospectHouse);
             logger.info("House cost informed successfully.");

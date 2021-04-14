@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.enums.ConstructionTypes;
 import com.solvd.buildingCompany.enums.Roles;
@@ -8,7 +8,7 @@ import com.solvd.buildingCompany.exceptions.ConstructionSpecificationsException;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
 import com.solvd.buildingCompany.product.Construction;
 import com.solvd.buildingCompany.staff.Company;
-import com.solvd.buildingCompany.staff.bosses.interfaces.ILegalManager;
+import com.solvd.buildingCompany.staff.bosses.ILegalManager;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
 import com.solvd.buildingCompany.staff.subordinates.Lawyer;
 import com.solvd.buildingCompany.staff.subordinates.Notary;

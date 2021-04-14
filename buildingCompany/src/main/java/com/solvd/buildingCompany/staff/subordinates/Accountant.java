@@ -2,7 +2,7 @@ package com.solvd.buildingCompany.staff.subordinates;
 
 
 import com.solvd.buildingCompany.staff.Company;
-import com.solvd.buildingCompany.staff.bosses.Boss;
+import com.solvd.buildingCompany.staff.bosses.implementation.Boss;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.enums.Roles;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
@@ -6,7 +6,7 @@ import com.solvd.buildingCompany.staff.Company;
 import com.solvd.buildingCompany.staff.subordinates.CustomerServiceAgent;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
 import com.solvd.buildingCompany.staff.subordinates.SalesAgent;
-import com.solvd.buildingCompany.staff.bosses.interfaces.ISalesManager;
+import com.solvd.buildingCompany.staff.bosses.ISalesManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.enums.ConstructionTypes;
 import com.solvd.buildingCompany.enums.Roles;
@@ -8,7 +8,7 @@ import com.solvd.buildingCompany.exceptions.NoBudgetException;
 import com.solvd.buildingCompany.product.Construction;
 import com.solvd.buildingCompany.staff.Company;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
-import com.solvd.buildingCompany.staff.bosses.interfaces.IGeneralManager;
+import com.solvd.buildingCompany.staff.bosses.IGeneralManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

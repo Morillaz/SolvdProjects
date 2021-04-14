@@ -3,7 +3,7 @@ package com.solvd.buildingCompany.staff;
 import com.solvd.buildingCompany.exceptions.EmployeeException;
 import com.solvd.buildingCompany.product.Construction;
 import com.solvd.buildingCompany.resources.CompanyResources;
-import com.solvd.buildingCompany.staff.bosses.GeneralManager;
+import com.solvd.buildingCompany.staff.bosses.implementation.GeneralManager;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

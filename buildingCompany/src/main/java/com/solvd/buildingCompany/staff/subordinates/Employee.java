@@ -1,7 +1,7 @@
 package com.solvd.buildingCompany.staff.subordinates;
 
 import com.solvd.buildingCompany.staff.Company;
-import com.solvd.buildingCompany.staff.bosses.Boss;
+import com.solvd.buildingCompany.staff.bosses.implementation.Boss;
 
 import java.util.Objects;
 import java.util.Random;

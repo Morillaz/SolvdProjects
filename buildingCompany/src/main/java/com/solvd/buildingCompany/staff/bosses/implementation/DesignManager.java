@@ -1,4 +1,4 @@
-package com.solvd.buildingCompany.staff.bosses;
+package com.solvd.buildingCompany.staff.bosses.implementation;
 
 import com.solvd.buildingCompany.enums.ConstructionTypes;
 import com.solvd.buildingCompany.enums.Roles;
@@ -11,7 +11,7 @@ import com.solvd.buildingCompany.product.House;
 import com.solvd.buildingCompany.staff.Company;
 import com.solvd.buildingCompany.staff.subordinates.Designer;
 import com.solvd.buildingCompany.staff.subordinates.Employee;
-import com.solvd.buildingCompany.staff.bosses.interfaces.IDesignManager;
+import com.solvd.buildingCompany.staff.bosses.IDesignManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
