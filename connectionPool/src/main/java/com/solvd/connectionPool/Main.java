@@ -19,6 +19,6 @@ public class Main {
             executor.execute(new ConnectionRunnable(i, pool));
             logger.info("Executing thread");
         }
-        logger.info("Threads execution finalized");
+        executor.shutdown();
     }
 }

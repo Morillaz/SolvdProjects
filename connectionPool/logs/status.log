@@ -61,3 +61,146 @@
 2021-04-19 07:28:26,409 [main] INFO  com.solvd.connectionPool.Main - Executing thread
 2021-04-19 07:28:26,409 [main] INFO  com.solvd.connectionPool.Main - Threads execution finalized
 2021-04-19 07:28:26,409 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,651 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,651 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,665 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,668 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,669 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,668 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,670 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,670 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,670 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,671 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,671 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,672 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,671 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,673 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,677 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,678 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,680 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,680 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,689 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:33:39,689 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:33:39,689 [main] INFO  com.solvd.connectionPool.Main - Threads execution finalized
+2021-04-19 07:35:55,885 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,885 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,894 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,895 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,896 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,897 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,897 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,898 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,902 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,903 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,903 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,909 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,909 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,909 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,909 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,910 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,912 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,912 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:35:55,913 [main] INFO  com.solvd.connectionPool.Main - Threads execution finalized
+2021-04-19 07:35:55,913 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:35:55,912 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,075 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,083 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,086 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,086 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,087 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,087 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,076 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,087 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,098 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,087 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,086 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,099 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,086 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,103 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,103 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,103 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,107 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:06,108 [main] INFO  com.solvd.connectionPool.Main - Threads execution finalized
+2021-04-19 07:38:06,104 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,107 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:06,112 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,279 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,284 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,289 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,290 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,291 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,290 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,289 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,289 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,285 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,291 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,295 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,296 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,298 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,298 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,299 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,300 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,300 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,301 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:21,300 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:21,301 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,837 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,837 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,844 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,845 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,847 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,848 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,847 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,849 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,861 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,861 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,862 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,862 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,862 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,862 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,863 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,863 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,863 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,863 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:38:52,865 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:38:52,866 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,521 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,524 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,525 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,526 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,526 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,526 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,530 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,530 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,530 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,524 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,531 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,525 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,531 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,532 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,533 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,534 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,537 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,537 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:00,539 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:00,539 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,477 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,479 [pool-2-thread-1] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,487 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,503 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,503 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,509 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,509 [pool-2-thread-3] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,510 [pool-2-thread-2] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,512 [pool-2-thread-4] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,516 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,517 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,516 [pool-2-thread-5] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,517 [pool-2-thread-7] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,518 [pool-2-thread-8] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,519 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,519 [pool-2-thread-6] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,521 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,521 [pool-2-thread-9] INFO  com.solvd.connectionPool.Connection - This method does nothing
+2021-04-19 07:39:07,521 [main] INFO  com.solvd.connectionPool.Main - Executing thread
+2021-04-19 07:39:07,521 [pool-2-thread-10] INFO  com.solvd.connectionPool.Connection - This method does nothing

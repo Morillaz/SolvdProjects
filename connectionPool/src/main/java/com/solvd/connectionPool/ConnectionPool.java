@@ -41,7 +41,7 @@ public class ConnectionPool {
     }
 
     public Connection getConnection() throws InterruptedException {
-        if(connections.size()==0 && connectionsNumber < MAX_CONNECTIONS) {
+        if(connectionsNumber < MAX_CONNECTIONS) {
             initConnection();
         }
         return connections.take();
