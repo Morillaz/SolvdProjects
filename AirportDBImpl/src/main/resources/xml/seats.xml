@@ -1,0 +1,8 @@
+<seats>
+
+    <seat id="1">
+        <class>Tourist</class>
+        <airplanes_model_id>1</airplanes_model_id>
+    </seat>
+
+</seats>

@@ -1,0 +1,8 @@
+<airplane_models>
+
+    <airplane_model id="1">
+        <model>Boeing 737</model>
+        <size>BIG</size>
+    </airplane_model>
+
+</airplane_models>

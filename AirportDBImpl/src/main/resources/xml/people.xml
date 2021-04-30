@@ -1,0 +1,10 @@
+<people>
+
+    <person id="1">
+        <fname>Marco</fname>
+        <lname>Polo</lname>
+        <age>25</age>
+        <gender>male</gender>
+    </person>
+
+</people>

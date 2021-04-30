@@ -1,0 +1,8 @@
+<routes>
+
+    <route id="1">
+        <airport_from_id>1</airport_from_id>
+        <airport_to_id>2</airport_to_id>
+    </route>
+
+</routes>

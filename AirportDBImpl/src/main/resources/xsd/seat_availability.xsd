@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="seat_availability">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="availability"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="availability">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="availables"/>
+                <xs:element ref="occupied"/>
+                <xs:element ref="seats_id"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="availables" type="xs:integer"/>
+    <xs:element name="occupied" type="xs:integer"/>
+    <xs:element name="seats_id" type="xs:integer"/>
+</xs:schema>

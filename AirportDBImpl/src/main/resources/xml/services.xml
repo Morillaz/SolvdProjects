@@ -1,0 +1,7 @@
+<services>
+
+    <service id="1">
+        <type>food</type>
+    </service>
+
+</services>

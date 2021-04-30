@@ -1,0 +1,8 @@
+<flights_has_services>
+
+    <flight_has_service id="1">
+        <flights_id>1</flights_id>
+        <services_id>1</services_id>
+    </flight_has_service>
+
+</flights_has_services>
