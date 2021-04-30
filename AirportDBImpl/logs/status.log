@@ -1,0 +1,9 @@
+2021-04-30 06:51:48,871 [main] INFO  javax.xml.parsers.SAXParser - City{id=1, name='Corrientes', stateId=1}
+2021-04-30 06:51:48,874 [main] INFO  javax.xml.parsers.SAXParser - City{id=2, name='Goya', stateId=1}
+2021-04-30 06:51:48,875 [main] INFO  javax.xml.parsers.SAXParser - City{id=3, name='Paso de la Patria', stateId=1}
+2021-04-30 06:54:12,138 [main] INFO  javax.xml.parsers.SAXParser - City{id=1, name='Corrientes', stateId=1}
+2021-04-30 06:54:12,141 [main] INFO  javax.xml.parsers.SAXParser - City{id=2, name='Goya', stateId=1}
+2021-04-30 06:54:12,141 [main] INFO  javax.xml.parsers.SAXParser - City{id=3, name='Paso de la Patria', stateId=1}
+2021-04-30 07:01:09,658 [main] INFO  javax.xml.parsers.SAXParser - City{id=1, name='Corrientes', stateId=1}
+2021-04-30 07:01:09,661 [main] INFO  javax.xml.parsers.SAXParser - City{id=2, name='Goya', stateId=1}
+2021-04-30 07:01:09,662 [main] INFO  javax.xml.parsers.SAXParser - City{id=3, name='Paso de la Patria', stateId=1}

@@ -1,0 +1,9 @@
+<countries>
+    <country id="1">
+        <name>Argentina</name>
+    </country>
+
+    <country id="2">
+        <name>Belarus</name>
+    </country>
+</countries>

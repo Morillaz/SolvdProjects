@@ -1,0 +1,18 @@
+<cities>
+
+    <city id="1">
+        <name>Corrientes</name>
+        <States_id>1</States_id>
+    </city>
+
+    <city id="2">
+        <name>Goya</name>
+        <States_id>1</States_id>
+    </city>
+
+    <city id="3">
+        <name>Paso de la Patria</name>
+        <States_id>1</States_id>
+    </city>
+
+</cities>

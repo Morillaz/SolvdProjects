@@ -1,0 +1,18 @@
+<states>
+
+    <state id="1">
+        <name>Corrientes</name>
+        <Countries_id>1</Countries_id>
+    </state>
+
+    <state id="2">
+        <name>Chaco</name>
+        <Countries_id>1</Countries_id>
+    </state>
+
+    <state id="3">
+        <name>Buenos Aires</name>
+        <Countries_id>1</Countries_id>
+    </state>
+
+</states>
