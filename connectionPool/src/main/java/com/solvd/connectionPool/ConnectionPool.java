@@ -25,7 +25,7 @@ public class ConnectionPool {
         return instance;
     }
 
-    public synchronized void initConnection() {
+    public void initConnection() {
         connections.add(new Connection(connectionsNumber));
         connectionsNumber++;
     }
@@ -41,8 +41,10 @@ public class ConnectionPool {
     }
 
     public Connection getConnection() throws InterruptedException {
-        if(connectionsNumber < MAX_CONNECTIONS) {
-            initConnection();
+        synchronized (this){
+            if(connectionsNumber < MAX_CONNECTIONS) {
+                initConnection();
+            }
         }
         return connections.take();
     }
