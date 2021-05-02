@@ -1,0 +1,9 @@
+<seat_availability>
+
+    <availability id="1">
+        <availables>89</availables>
+        <occupied>1</occupied>
+        <seats_id>1</seats_id>
+    </availability>
+
+</seat_availability>

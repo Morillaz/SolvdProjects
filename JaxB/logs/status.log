@@ -1,0 +1,313 @@
+2021-05-02 08:48:31,594 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.CountryDAO - javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.internal.bind.v2.ContextFactory]
+2021-05-02 09:37:12,217 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,219 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,220 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,322 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,329 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,370 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,371 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:37:12,371 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,168 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,171 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,171 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,254 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,259 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,291 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,291 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,292 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:39:05,293 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,246 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,249 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,249 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,337 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,342 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,375 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,375 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,376 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:40:26,376 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,500 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,502 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,503 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,593 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,603 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,648 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,648 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,648 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,650 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:41:39,650 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,740 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,827 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,834 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,868 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,869 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,871 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,880 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,880 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,903 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,903 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,904 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,904 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,907 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,907 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,909 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,910 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,910 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,911 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:07,911 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,081 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,174 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,180 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,226 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,226 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,230 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,238 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,239 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,241 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,242 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,242 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,242 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,245 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,246 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,248 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,248 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,249 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,250 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:43:44,250 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,768 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,770 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,771 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,862 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,869 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,912 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,913 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,913 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,914 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 09:44:40,914 [main] INFO  com.solvd.jaxB.dao.jaxB.impl.CountryDAO - works
+2021-05-02 10:29:33,547 [main] INFO  com.solvd.jaxB.Main - Country{id=2, name='Belarus'}
+2021-05-02 10:29:33,570 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:42:09,321 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:42:09,347 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:44:43,037 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:44:43,056 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:44:43,079 [main] INFO  com.solvd.jaxB.Main - Airline{id=2, name='Ryanair'}
+2021-05-02 10:44:51,387 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:44:51,409 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:45:34,746 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:45:34,765 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:45:34,785 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 10:45:50,446 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:45:50,463 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:45:50,487 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 10:46:47,151 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:46:47,174 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:46:47,205 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Ryanair'}
+2021-05-02 10:47:03,396 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:47:03,418 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:47:03,451 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 10:49:29,828 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:49:29,853 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:49:36,117 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 10:49:36,137 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 10:49:36,144 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:40:03,341 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:40:03,358 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:40:03,363 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:40:50,361 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:40:50,384 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:40:50,391 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:43:26,705 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:43:26,733 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:43:26,741 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:43:47,758 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:43:47,779 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:43:47,787 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:45:01,925 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:45:01,944 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:45:01,950 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:45:17,836 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:45:17,863 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:45:17,870 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:46:04,727 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:46:04,746 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:46:04,753 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:46:04,768 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 12:47:36,103 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:47:36,124 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:47:36,132 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:47:36,150 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 12:58:43,837 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 12:58:43,860 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 12:58:43,867 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 12:58:43,883 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:00:54,838 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:00:54,861 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:00:54,868 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:00:54,883 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:00:54,906 [main] INFO  com.solvd.jaxB.Main - City{id=4, name='Santo Tomé', stateId=1}
+2021-05-02 13:02:18,308 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:02:18,328 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:02:18,334 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:02:18,351 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:02:18,359 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:07:18,550 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:07:18,567 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:07:18,573 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:07:18,592 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:07:18,601 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:07:31,869 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:07:31,891 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:07:31,899 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:07:31,917 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:07:31,926 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:08:50,088 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:08:50,108 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:08:50,114 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:08:50,130 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:08:50,137 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:12:34,072 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:12:34,105 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:12:34,114 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:12:34,152 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:12:34,163 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:16:56,270 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:16:56,291 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:16:56,300 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:16:56,320 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:16:56,329 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:19:33,303 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:19:33,324 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:19:33,331 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:19:33,351 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:19:33,361 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:33:03,311 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:33:03,335 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:33:03,349 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.AirlineDAO - com.sun.xml.bind.v2.runtime.IllegalAnnotationsException: 1 counts of IllegalAnnotationExceptions
+Class has two properties of the same name "airlines"
+	this problem is related to the following location:
+		at public java.util.List com.solvd.jaxB.wrappers.Airlines.getAirlines()
+		at com.solvd.jaxB.wrappers.Airlines
+	this problem is related to the following location:
+		at private java.util.List com.solvd.jaxB.wrappers.Airlines.airlines
+		at com.solvd.jaxB.wrappers.Airlines
+
+2021-05-02 13:33:32,514 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:33:32,535 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:33:32,542 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:33:32,560 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:33:32,567 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:38:14,629 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:38:14,652 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:38:14,659 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:38:14,676 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:38:14,684 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:43:36,229 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:43:36,247 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:43:36,253 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:43:36,278 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 13:43:36,288 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 13:59:17,476 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 13:59:17,497 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 13:59:17,503 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 13:59:17,521 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:02:52,664 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:02:52,685 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 14:02:52,691 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:02:52,708 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:02:52,717 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 14:11:59,318 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:11:59,339 [main] INFO  com.solvd.jaxB.Main - State{id=5, name='Rio do Janeiro', countryId=4}
+2021-05-02 14:11:59,345 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:11:59,360 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:11:59,367 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 14:12:30,678 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:12:30,699 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 14:12:30,699 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 14:12:30,700 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 14:12:30,700 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 14:12:30,706 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:12:30,725 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:12:30,732 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 14:49:47,014 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:49:47,037 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 14:49:47,038 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 14:49:47,038 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 14:49:47,039 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 14:49:47,045 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:49:47,063 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:49:47,070 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 14:55:10,980 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:55:11,003 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 14:55:11,003 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 14:55:11,004 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 14:55:11,004 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 14:55:11,011 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:55:11,028 [main] INFO  com.solvd.jaxB.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 14:55:11,036 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 14:55:53,568 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 14:55:53,596 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 14:55:53,596 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 14:55:53,596 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 14:55:53,596 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 14:55:53,603 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 14:55:53,626 [main] INFO  com.solvd.jaxB.Main - Person{id=2, fname='Alejandro', lname='Magno', age=30, gender='male'}
+2021-05-02 14:55:53,638 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 15:00:18,668 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:00:18,692 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 15:00:18,692 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 15:00:18,693 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 15:00:18,693 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 15:00:18,702 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 15:00:18,721 [main] INFO  com.solvd.jaxB.Main - Person{id=2, fname='Alejandro', lname='Magno', age=30, gender='male'}
+2021-05-02 15:00:18,730 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 15:01:50,772 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:01:50,797 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.JAXBException: class java.util.ArrayList nor any of its super class is known to this context.
+2021-05-02 15:01:50,820 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-05-02 15:11:21,434 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:11:21,456 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-05-02 15:42:00,389 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:42:00,409 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-05-02 15:45:27,612 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:45:27,630 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-05-02 15:46:09,367 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:46:09,412 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 15:46:09,413 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 15:46:09,413 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 15:46:09,414 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 15:46:09,414 [main] INFO  com.solvd.jaxB.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 15:46:09,421 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 15:46:09,439 [main] INFO  com.solvd.jaxB.Main - Person{id=2, fname='Alejandro', lname='Magno', age=30, gender='male'}
+2021-05-02 15:46:09,447 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 15:46:28,330 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:46:28,348 [main] ERROR com.solvd.jaxB.dao.jaxB.impl.StateDAO - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.]
+2021-05-02 15:46:48,262 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:46:48,309 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 15:46:48,309 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 15:46:48,310 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 15:46:48,310 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 15:46:48,311 [main] INFO  com.solvd.jaxB.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 15:46:48,311 [main] INFO  com.solvd.jaxB.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 15:46:48,319 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 15:46:48,337 [main] INFO  com.solvd.jaxB.Main - Person{id=2, fname='Alejandro', lname='Magno', age=30, gender='male'}
+2021-05-02 15:46:48,343 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 15:57:31,999 [main] INFO  com.solvd.jaxB.Main - Country{id=1, name='Argentina'}
+2021-05-02 15:57:32,044 [main] INFO  com.solvd.jaxB.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 15:57:32,045 [main] INFO  com.solvd.jaxB.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 15:57:32,046 [main] INFO  com.solvd.jaxB.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 15:57:32,046 [main] INFO  com.solvd.jaxB.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 15:57:32,046 [main] INFO  com.solvd.jaxB.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 15:57:32,047 [main] INFO  com.solvd.jaxB.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 15:57:32,055 [main] INFO  com.solvd.jaxB.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 15:57:32,074 [main] INFO  com.solvd.jaxB.Main - Person{id=2, fname='Alejandro', lname='Magno', age=30, gender='male'}
+2021-05-02 15:57:32,081 [main] INFO  com.solvd.jaxB.Main - City{id=1, name='Corrientes', stateId=1}

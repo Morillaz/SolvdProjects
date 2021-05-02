@@ -1,0 +1,8 @@
+<airplanes>
+
+    <airplane id="1">
+        <airplane_model_id>1</airplane_model_id>
+        <airplines_id>1</airplines_id>
+    </airplane>
+
+</airplanes>

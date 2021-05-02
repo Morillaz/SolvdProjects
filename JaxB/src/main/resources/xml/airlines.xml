@@ -1,0 +1,8 @@
+<airlines>
+    <airline id="1">
+        <name>Flybondi</name>
+    </airline>
+    <airline id="2">
+        <name>Ryanair</name>
+    </airline>
+</airlines>

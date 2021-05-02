@@ -1,0 +1,11 @@
+<flights>
+
+    <flight id="1">
+        <status>ON TIME</status>
+        <departure_date>2022-05-30T09:00:00</departure_date>
+        <arrival_date>2022-05-30T18:00:00</arrival_date>
+        <routes_id>1</routes_id>
+        <airplanes_id>1</airplanes_id>
+    </flight>
+
+</flights>
