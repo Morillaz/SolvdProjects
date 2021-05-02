@@ -1,0 +1,9 @@
+<orders>
+
+    <order id="1">
+        <people_id>1</people_id>
+        <flights_id>1</flights_id>
+        <price>250.50</price>
+    </order>
+
+</orders>

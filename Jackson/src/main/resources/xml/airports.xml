@@ -1,0 +1,13 @@
+<airports>
+
+    <airport id="1">
+        <name>Gran Aeropuerto Nacional</name>
+        <city_id>1</city_id>
+    </airport>
+
+    <airport id="2">
+        <name>Aeropuero Chiquito</name>
+        <city_id>2</city_id>
+    </airport>
+
+</airports>

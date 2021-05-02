@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Corrientes",
+    "Countries_id": "1"
+  },
+  {
+    "id": "2",
+    "name": "Chaco",
+    "Countries_id": "1"
+  },
+  {
+    "id": "3",
+    "name": "Buenos Aires",
+    "Countries_id": "1"
+  },
+  {
+    "id": "4",
+    "name": "Misiones",
+    "Countries_id": "1"
+  },
+  {
+    "id": "5",
+    "name": "Rio do Janeiro",
+    "Countries_id": "4"
+  },
+  {
+    "id": "6",
+    "name": "Chubut",
+    "Countries_id": "1"
+  }
+]

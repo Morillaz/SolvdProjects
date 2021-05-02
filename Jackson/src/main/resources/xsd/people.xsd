@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="people">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="person"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="person">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="fname"/>
+                <xs:element ref="lname"/>
+                <xs:element ref="age"/>
+                <xs:element ref="gender"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="fname" type="xs:NCName"/>
+    <xs:element name="lname" type="xs:NCName"/>
+    <xs:element name="age" type="xs:integer"/>
+    <xs:element name="gender" type="xs:NCName"/>
+</xs:schema>

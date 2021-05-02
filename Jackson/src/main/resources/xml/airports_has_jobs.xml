@@ -1,0 +1,8 @@
+<airports_has_jobs>
+
+    <airport_has_job id="1">
+        <airports_id>1</airports_id>
+        <jobs_id>1</jobs_id>
+    </airport_has_job>
+
+</airports_has_jobs>

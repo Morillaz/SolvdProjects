@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="flights">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="flight"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="flight">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="status"/>
+                <xs:element ref="departure_date"/>
+                <xs:element ref="arrival_date"/>
+                <xs:element ref="routes_id"/>
+                <xs:element ref="airplanes_id"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="status" type="xs:string"/>
+    <xs:element name="departure_date" type="xs:NMTOKEN"/>
+    <xs:element name="arrival_date" type="xs:NMTOKEN"/>
+    <xs:element name="routes_id" type="xs:integer"/>
+    <xs:element name="airplanes_id" type="xs:integer"/>
+</xs:schema>

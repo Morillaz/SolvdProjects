@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Corrientes",
+    "States_id": "1"
+  },
+  {
+    "id": "2",
+    "name": "Goya",
+    "States_id": "1"
+  },
+  {
+    "id": "3",
+    "name": "Paso de la Patria",
+    "States_id": "1"
+  },
+  {
+    "id": "4",
+    "name": "Santo Tomé",
+    "States_id": "1"
+  }
+]

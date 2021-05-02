@@ -1,0 +1,8 @@
+<people_has_jobs>
+
+    <person_has_job id="1">
+        <people_id>1</people_id>
+        <jobs_id>1</jobs_id>
+    </person_has_job>
+
+</people_has_jobs>

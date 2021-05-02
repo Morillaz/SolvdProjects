@@ -1,0 +1,62 @@
+2021-05-02 18:42:57,894 [main] INFO  com.solvd.jackson.Main - Country{id=1, name='Argentina'}
+2021-05-02 18:42:57,898 [main] INFO  com.solvd.jackson.Main - Country{id=2, name='Australia'}
+2021-05-02 19:12:19,922 [main] ERROR com.solvd.jackson.dao.jackson.impl.CountryDAO - Cannot deserialize instance of `java.util.ArrayList` out of START_OBJECT token
+ at [Source: (File); line: 1, column: 1]
+2021-05-02 19:22:15,714 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:22:39,874 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:22:39,883 [main] ERROR com.solvd.jackson.dao.jackson.impl.CountryDAO - Unrecognized field "fname" (class com.solvd.jackson.models.Country), not marked as ignorable (2 known properties: "id", "name"])
+ at [Source: (File); line: 1, column: 19] (through reference chain: java.util.ArrayList[0]->com.solvd.jackson.models.Country["fname"])
+2021-05-02 19:24:41,763 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:24:41,786 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:32:16,915 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:32:16,937 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:32:16,944 [main] ERROR com.solvd.jackson.dao.jackson.impl.AirlineDAO - Cannot deserialize instance of `java.util.ArrayList` out of START_OBJECT token
+ at [Source: (File); line: 1, column: 1]
+2021-05-02 19:33:26,816 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:33:26,839 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:33:26,845 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:33:51,985 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:33:52,010 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:33:52,015 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:47:19,120 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:47:19,145 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:47:19,151 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:47:19,168 [main] INFO  com.solvd.jackson.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 19:47:19,168 [main] INFO  com.solvd.jackson.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 19:47:19,169 [main] INFO  com.solvd.jackson.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 19:47:19,170 [main] INFO  com.solvd.jackson.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 19:47:19,170 [main] INFO  com.solvd.jackson.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 19:56:50,425 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:56:50,453 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:56:50,459 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:56:50,486 [main] INFO  com.solvd.jackson.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 19:56:50,487 [main] INFO  com.solvd.jackson.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 19:56:50,487 [main] INFO  com.solvd.jackson.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 19:56:50,488 [main] INFO  com.solvd.jackson.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 19:56:50,488 [main] INFO  com.solvd.jackson.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 19:56:50,496 [main] ERROR com.solvd.jackson.models.City - Unrecognized field "Countries_id" (class com.solvd.jackson.models.City), not marked as ignorable (3 known properties: "States_id", "id", "name"])
+ at [Source: (File); line: 25, column: 22] (through reference chain: java.util.ArrayList[4]->com.solvd.jackson.models.City["Countries_id"])
+2021-05-02 19:57:43,499 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:57:43,520 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:57:43,528 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:57:43,544 [main] INFO  com.solvd.jackson.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 19:57:43,544 [main] INFO  com.solvd.jackson.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 19:57:43,544 [main] INFO  com.solvd.jackson.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 19:57:43,545 [main] INFO  com.solvd.jackson.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 19:57:43,545 [main] INFO  com.solvd.jackson.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 19:57:43,558 [main] INFO  com.solvd.jackson.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 19:57:43,559 [main] INFO  com.solvd.jackson.Main - City{id=2, name='Goya', stateId=1}
+2021-05-02 19:57:43,560 [main] INFO  com.solvd.jackson.Main - City{id=3, name='Paso de la Patria', stateId=1}
+2021-05-02 19:57:43,560 [main] INFO  com.solvd.jackson.Main - City{id=4, name='Santo Tomé', stateId=1}
+2021-05-02 19:58:29,709 [main] INFO  com.solvd.jackson.Main - Country{id=4, name='Japan'}
+2021-05-02 19:58:29,750 [main] INFO  com.solvd.jackson.Main - Person{id=1, fname='Marco', lname='Polo', age=25, gender='male'}
+2021-05-02 19:58:29,757 [main] INFO  com.solvd.jackson.Main - Airline{id=1, name='Flybondi'}
+2021-05-02 19:58:29,784 [main] INFO  com.solvd.jackson.Main - State{id=1, name='Corrientes', countryId=1}
+2021-05-02 19:58:29,784 [main] INFO  com.solvd.jackson.Main - State{id=2, name='Chaco', countryId=1}
+2021-05-02 19:58:29,785 [main] INFO  com.solvd.jackson.Main - State{id=3, name='Buenos Aires', countryId=1}
+2021-05-02 19:58:29,785 [main] INFO  com.solvd.jackson.Main - State{id=4, name='Misiones', countryId=1}
+2021-05-02 19:58:29,786 [main] INFO  com.solvd.jackson.Main - State{id=6, name='Chubut', countryId=1}
+2021-05-02 19:58:29,797 [main] INFO  com.solvd.jackson.Main - City{id=1, name='Corrientes', stateId=1}
+2021-05-02 19:58:29,797 [main] INFO  com.solvd.jackson.Main - City{id=2, name='Goya', stateId=1}
+2021-05-02 19:58:29,798 [main] INFO  com.solvd.jackson.Main - City{id=3, name='Paso de la Patria', stateId=1}
+2021-05-02 19:58:29,799 [main] INFO  com.solvd.jackson.Main - City{id=4, name='Santo Tomé', stateId=1}
